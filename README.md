@@ -29,6 +29,7 @@
 
 ## 更新
 
+- 源仓库：https://github.com/EightDoor/siyuan
 - 去除更新提示、去除用户相关内容，可以云端同步
 ## 💡 简介
 
